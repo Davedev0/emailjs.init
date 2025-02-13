@@ -22,7 +22,7 @@ npm install emailjs.init
 Or include it directly in your HTML file:
 
 ```html
-<script src="path/to/emailjs.init.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 ```
 
 ## Usage
